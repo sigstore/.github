@@ -8,3 +8,37 @@ Please remember to:
 - lastly, ensure there are no merge commits!
 Thank you :)
 -->
+
+#### Summary
+<!--
+A description of what this pull request does, as well as QA test steps (if applicable and if not already added to the Jira ticket).
+-->
+
+#### Ticket Link
+<!--
+If this pull request addresses a Help Wanted ticket, please link the relevant GitHub issue, e.g.
+
+  Fixes https://github.com/sigstore/YYYYYY/issues/XXXXX
+
+-->
+Fixes
+
+#### Release Note
+<!--
+Add a release note for each of the following conditions:
+
+* Config changes (additions, deletions, updates)
+* API additions—new endpoint, new response fields, or newly accepted request parameters
+* Database changes (any)
+* Websocket additions or changes
+* Anything noteworthy to a Mattermost instance administrator (err on the side of over-communicating)
+* New features and improvements, including behavioural changes, UI changes and CLI changes
+* Bug fixes and fixes of previous known issues
+* Deprecation warnings, breaking changes, or compatibility notes
+
+If no release notes are required write NONE. Use past-tense.
+
+-->
+```release-note
+
+```
