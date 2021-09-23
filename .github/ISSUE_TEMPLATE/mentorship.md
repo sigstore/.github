@@ -3,7 +3,7 @@ name: Mentorship request
 about: Interested in getting involved, but want some guidance? Submit a mentorship
   request!
 title: Mentorship request for <your-name>
-labels: mentorship
+labels: ''
 assignees: ''
 
 ---
@@ -26,5 +26,5 @@ interview! We just need enough to get the ball rolling.
 -->
 
 **Interest areas**
-<!--Are there any particular parts of the project you would like to contribute 
+<!--Are there any particular parts of the project you would like to contribute
 to?-->

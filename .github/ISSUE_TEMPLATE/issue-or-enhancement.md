@@ -1,9 +1,9 @@
 ---
 name: Issue or Enhancement
-about: A task, enhancement idea, or bug report related to the technical aspects of
+about: A task or enhancement idea related to the technical aspects of
   the project.
-title: Description of the issue
-labels: ''
+title: Concise description of the issue
+labels: 'enhancement'
 assignees: ''
 
 ---

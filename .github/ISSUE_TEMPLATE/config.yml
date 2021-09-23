@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Sigstore Slack
+    url: https://join.slack.com/t/sigstore/shared_invite/zt-mhs55zh0-XmY3bcfWn4XEyMqUUutbUQ
+    about: Also consider our Slack channel. It's the quickest way to have a conversation with the developers!
