@@ -33,7 +33,7 @@ Contact the team by sending email to the [SRC Members](#SRC-Members)
 
 The SRC should ideally consist of 2-4 members. New potential members to the SRC can express their interest to the SRC members. These individuals can be nominated by SRC members or sigstore maintainers to the current SRC members. Membership if possible should be vendor diverse (no more than 2:1 ratio of representation from any single vendor)
 
-If representation changes due to job shifts then SRC members are encouraged to grow the team or replace themselves through mentoring new members.
+If representation changes due to employment change, then SRC members are encouraged to grow the team or replace themselves through mentoring new members.
 
 ##### Security Response Committee Lazy Consensus Selection
 
@@ -49,6 +49,7 @@ Members may step down at any time and propose a replacement from existing active
 - Members taking an extended leave of two weeks or more should coordinate with other members to ensure the role is adequately staffed during the leave.
 - Members going on leave for 1-3 months may identify a temporary replacement.
 - Members of a role should remove any other members that have not communicated a leave of absence and either cannot be reached for more than 1 month or are not fulfilling their documented responsibilities for more than 1 month. This may be done through a super-majority vote of members.
+- Members should never intentionally disclose a vulnerbility during the embargo process to any public channels or indviduals outside of the SRC or codeowners selected to work as part of a fix team.
 
 ## Disclosures
 
