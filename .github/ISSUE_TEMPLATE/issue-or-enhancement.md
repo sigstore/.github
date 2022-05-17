@@ -2,7 +2,6 @@
 name: Issue or Enhancement
 about: A task or enhancement idea related to the technical aspects of
   the project.
-title: Concise description of the issue
 labels: 'enhancement'
 assignees: ''
 

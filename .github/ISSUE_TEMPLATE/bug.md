@@ -1,7 +1,6 @@
 ---
 name: Bug
 about: Something wrong with the project? Report it here!
-title: Concise description of the bug
 labels: 'bug'
 assignees: ''
 
