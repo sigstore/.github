@@ -10,3 +10,8 @@ assignees: ''
 
 <!--Tell us about the bug. What went wrong? How can we reproduce it? What should the correct behavior be?
 -->
+
+**Version**
+
+<!--What version are you using? e.g. `cosign version`...
+-->
