@@ -33,7 +33,7 @@ Contact the team by sending email to the [SRC Members](#SRC-Members)
 
 The SRC should ideally consist of 2-4 members. New potential members to the SRC can express their interest to the SRC members. These individuals can be nominated by SRC members or sigstore maintainers to the current SRC members. Membership if possible should be vendor diverse (no more than 2:1 ratio of representation from any single vendor)
 
-If representation changes due to job shifts then SRC members are encouraged to grow the team or replace themselves through mentoring new members.
+If representation changes due to employment change, then SRC members are encouraged to grow the team or replace themselves through mentoring new members.
 
 ##### Security Response Committee Lazy Consensus Selection
 
@@ -49,6 +49,7 @@ Members may step down at any time and propose a replacement from existing active
 - Members taking an extended leave of two weeks or more should coordinate with other members to ensure the role is adequately staffed during the leave.
 - Members going on leave for 1-3 months may identify a temporary replacement.
 - Members of a role should remove any other members that have not communicated a leave of absence and either cannot be reached for more than 1 month or are not fulfilling their documented responsibilities for more than 1 month. This may be done through a super-majority vote of members.
+- Members should never intentionally disclose a vulnerbility during the embargo process to any public channels or indviduals outside of the SRC or codeowners selected to work as part of a fix team.
 
 ## Disclosures
 
@@ -84,19 +85,22 @@ These steps should be completed within the first 24 hours of Disclosure.
 
 These steps should be completed within the 1-7 days of Disclosure.
 
-- The SRC and the Fix Team will create a [CVSS](https://www.first.org/cvss/specification-document) using the [CVSS Calculator](https://www.first.org/cvss/calculator/3.0) to determine the effect and severity of the bug. The SRC makes the final call on the calculated risk; it is better to move quickly than make the perfect assessment.
-- The SRC will request a [CVE](https://cveform.mitre.org/).
 - The SRC will create a new [security advisory](https://docs.github.com/en/code-security/security-advisories/) in affected repository by visiting `https://github.com/sigstore/<project>/security/advisories/new`
 - As many details as possible should be entered such as versions affected, CVE (if available yet). As more information is discovered, edit and update the advisory accordingly.
-![Security Advisory](docs/images/opensec.png)
-- The Fix team is added to the security advisory as collaborators
+- Use the CVSS calculator to score a severity level.
+![CVSS Calculator](/images/calc.png)
+- Add collaborators from codeowners team only (outside members can only be added after approval from the SRC team)
+- The reporter may be added to the issue to assist with review, but **only reporters who have contacted the SRC using a private channel**.
+- Select 'Request CVE'
+![Request CVE](/images/cve.png)
 - The SRC / Fix Team create a private temporary fork
-![Security Advisory](docs/images/fork.png)
-- The Fix team performs all work in a 'security advisory' and its temporary fork
+![Security Fork](/images/fork.png)
+- The Fix team performs all work in a 'security advisory' within its temporary fork
+- CI can be checked locally using the [act](https://github.com/nektos/act) project
 - All communication happens within the security advisory, it is *not* discussed in slack channels or non private issues.
 - The Fix Team will notify the SRC that work on the fix branch is completed, this can be done by tagging names in the advisory
 - The Fix team and the SRC will agree on fix release day
--  The recommended release time is 4pm UTC on a non-Friday weekday. This means the announcement will be seen morning Pacific, early evening Europe, and late evening Asia.
+- The recommended release time is 4pm UTC on a non-Friday weekday. This means the announcement will be seen morning Pacific, early evening Europe, and late evening Asia.
 
 If the CVSS score is under ~4.0
 ([a low severity score](https://www.first.org/cvss/specification-document#i5)) or the assessed risk is low the Fix Team can decide to slow the release process down in the face of holidays, developer bandwidth, etc.
@@ -173,4 +177,4 @@ These steps should be completed 1-3 days after the Release Date. The retrospecti
 
 ## Credit
 
-Part of this process were inspired by the etc-d's security handling process.
+Parts of this process were inspired by the etc-d's security handling process.

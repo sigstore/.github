@@ -1,7 +1,6 @@
 ---
 name: Bug
 about: Something wrong with the project? Report it here!
-title: Concise description of the bug
 labels: 'bug'
 assignees: ''
 
@@ -10,4 +9,9 @@ assignees: ''
 **Description**
 
 <!--Tell us about the bug. What went wrong? How can we reproduce it? What should the correct behavior be?
+-->
+
+**Version**
+
+<!--What version are you using? e.g. `cosign version`...
 -->

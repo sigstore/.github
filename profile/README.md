@@ -1,4 +1,4 @@
-![Sigstore logo](https://raw.githubusercontent.com/sigstore/sigstore-website/main/assets/icons/logo.svg)
+![Sigstore logo](https://raw.githubusercontent.com/ossf/artwork/master/sigstore/horizontal/black/Sigstore-logo_horizontal-black.svg)
 
 A new standard for signing, verifying and protecting software
 

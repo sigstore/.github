@@ -1,7 +1,6 @@
 ---
 name: Question
 about: Have a question about the project? Ask it here!
-title: What are you wondering about?
 labels: question
 assignees: ''
 
