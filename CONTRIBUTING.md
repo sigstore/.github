@@ -15,7 +15,7 @@ to make via an issue.
 5. Correctly format your commit message see [Commit Messages](#commit-message-guidelines)
    below.
 6. Ensure that CI passes. If it fails, fix the failures.
-7. Every pull request requires a review from the [core sigstore team](https://github.com/orgs/sigstore/teams/core-team)
+7. Every pull request requires a review from the [core sigstore team](https://github.com/orgs/sigstore/people)
    before merging.
 8. If your pull request consists of more than one commit, please squash your
    commits as described in [Squash Commits](#commit-message-guidelines)
