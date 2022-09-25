@@ -10,13 +10,15 @@ The SRC are responsible for organizing the entire response including internal co
 
 ### SRC Members
 
-The initial SRC is bootstrapped from the sigstore TSC members:
+The SRC currently consists of:
 
 * Luke Hinds (lhinds@protonmail.com) [GPG Key](https://api.protonmail.ch/pks/lookup?op=get&search=lhinds@protonmail.com)
 * Bob Callaway (bob.callaway@gmail.com) [GPG Key](https://api.github.com/users/bobcallaway/gpg_keys)
 * Dan Lorenc (dlorenc@protonmail.com) [GPG Key](https://api.protonmail.ch/pks/lookup?op=get&search=dlorenc@protonmail.com)
+* Hayden Blauzvern (hblauzvern@google.com)
+* Asra Ali (asraa@google.com)
 
-The  members will share various tasks as listed below:
+The SRC members will share various tasks as listed below:
 
 - Triage: Assess the impact of the vulnerability (can it be replicated, is the code in sigstore or upstream?)
 - Infra: Create a security advisory and temporary fork for the fix team to work on the issue
@@ -31,7 +33,7 @@ Contact the team by sending email to the [SRC Members](#SRC-Members)
 
 #### Joining
 
-The SRC should ideally consist of 2-4 members. New potential members to the SRC can express their interest to the SRC members. These individuals can be nominated by SRC members or sigstore maintainers to the current SRC members. Membership if possible should be vendor diverse (no more than 2:1 ratio of representation from any single vendor)
+The SRC should ideally consist of 3-5 members. New potential members to the SRC can express their interest to the SRC members. These individuals can be nominated by SRC members or sigstore maintainers to the current SRC members. Membership if possible should be vendor diverse (no more than 2:1 ratio of representation from any single vendor)
 
 If representation changes due to employment change, then SRC members are encouraged to grow the team or replace themselves through mentoring new members.
 
