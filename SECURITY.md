@@ -2,6 +2,12 @@
 
 sigstore is a growing community of volunteers, users, and vendors. The sigstore community has adopted this security disclosures and response policy to ensure we responsibly handle critical issues.
 
+## Reporting a vulnerability
+
+Send the vulnerability disclosure to security@sigstore.dev. The Security Response Committee will acknowledge the report within 24 hours.
+
+Include steps to reproduce the vulnerability, the vulnerable versions, and any additional files to reproduce the vulnerability.
+
 ## Security Response Committee (SRC)
 
 Security vulnerabilities should be handled quickly and sometimes privately. The primary goal of this process is to reduce the total time users are vulnerable to publicly and privately known exploits.
@@ -12,11 +18,11 @@ The SRC are responsible for organizing the entire response including internal co
 
 The SRC currently consists of:
 
-* Luke Hinds (lhinds@protonmail.com) [GPG Key](https://api.protonmail.ch/pks/lookup?op=get&search=lhinds@protonmail.com)
-* Bob Callaway (bob.callaway@gmail.com) [GPG Key](https://api.github.com/users/bobcallaway/gpg_keys)
-* Dan Lorenc (dlorenc@protonmail.com) [GPG Key](https://api.protonmail.ch/pks/lookup?op=get&search=dlorenc@protonmail.com)
-* Hayden Blauzvern (hblauzvern@google.com)
-* Asra Ali (asraa@google.com)
+* Luke Hinds (lhinds@sigstore.dev)
+* Bob Callaway (bcallaway@sigstore.dev)
+* Dan Lorenc (dlorenc@sigstore.dev)
+* Hayden Blauzvern (hblauzvern@sigstore.dev)
+* Asra Ali (asraa@sigstore.dev)
 
 The SRC members will share various tasks as listed below:
 
@@ -27,7 +33,7 @@ The SRC members will share various tasks as listed below:
 
 ### Contacting the Security Response Committee
 
-Contact the team by sending email to the [SRC Members](#SRC-Members)
+Contact the team by sending email to security@sigstore.dev.
 
 ### Security Response Committee Membership
 
@@ -61,7 +67,7 @@ The sigstore Community asks that all suspected vulnerabilities be handled in acc
 
 ### Public Disclosure Processes
 
-If anyone knows of a publicly disclosed security vulnerability please IMMEDIATELY email the [SRC Members](#SRC-Members) to inform the SRC about the vulnerability so they may start the patch, release, and communication process.
+If anyone knows of a publicly disclosed security vulnerability please IMMEDIATELY email security@sigstore.dev to inform the SRC about the vulnerability so they may start the patch, release, and communication process.
 
 If a reporter contacts the SRC to express intent to make an issue public before a fix is available, the SRC will request if the issue can be handled via a private disclosure process. If the reporter denies the request, the SRC will move swiftly with the fix and release process.
 
