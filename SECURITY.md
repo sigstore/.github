@@ -8,6 +8,8 @@ Send the vulnerability disclosure to security@sigstore.dev. The Security Respons
 
 Include steps to reproduce the vulnerability, the vulnerable versions, and any additional files to reproduce the vulnerability.
 
+If you are only comfortable sharing under GPG, please start by sending an email requesting a public PGP key to use for encryption.
+
 ## Security Response Committee (SRC)
 
 Security vulnerabilities should be handled quickly and sometimes privately. The primary goal of this process is to reduce the total time users are vulnerable to publicly and privately known exploits.
