@@ -22,7 +22,7 @@ The SRC currently consists of:
 
 * Luke Hinds (lhinds@sigstore.dev)
 * Bob Callaway (bcallaway@sigstore.dev)
-* Dan Lorenc (dlorenc@sigstore.dev)
+* Dan Lorenc (dlorenc@protonmail.com)
 * Hayden Blauzvern (hblauzvern@sigstore.dev)
 * Asra Ali (asraa@sigstore.dev)
 
