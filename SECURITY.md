@@ -1,6 +1,6 @@
 # Sigstore Security Vulnerability Process
 
-sigstore is a growing community of volunteers, users, and vendors. The sigstore community has adopted this security disclosures and response policy to ensure we responsibly handle critical issues.
+Sigstore is a growing community of volunteers, users, and vendors. The Sigstore community has adopted this security disclosures and response policy to ensure we responsibly handle critical issues.
 
 ## Reporting a vulnerability
 
@@ -22,13 +22,12 @@ The SRC currently consists of:
 
 * Luke Hinds (lhinds@sigstore.dev)
 * Bob Callaway (bcallaway@sigstore.dev)
-* Dan Lorenc (dlorenc@protonmail.com)
 * Hayden Blauzvern (hblauzvern@sigstore.dev)
-* Asra Ali (asraa@sigstore.dev)
+* Cody Soyland (codysoyland@sigstore.dev)
 
 The SRC members will share various tasks as listed below:
 
-- Triage: Assess the impact of the vulnerability (can it be replicated, is the code in sigstore or upstream?)
+- Triage: Assess the impact of the vulnerability (can it be replicated, is the code in Sigstore or upstream?)
 - Infra: Create a security advisory and temporary fork for the fix team to work on the issue
 - Disclosure: Handle public messaging around the vulnerability, by documenting the issue (how to upgrade, list affected versions, draft an advisory notice)
 - Release: Create new release addressing a security fix and notify the public
@@ -41,7 +40,7 @@ Contact the team by sending email to security@sigstore.dev.
 
 #### Joining
 
-The SRC should ideally consist of 3-5 members. New potential members to the SRC can express their interest to the SRC members. These individuals can be nominated by SRC members or sigstore maintainers to the current SRC members. Membership if possible should be vendor diverse (no more than 2:1 ratio of representation from any single vendor)
+The SRC should ideally consist of 3-5 members. New potential members to the SRC can express their interest to the SRC members. These individuals can be nominated by SRC members or Sigstore maintainers to the current SRC members. Membership if possible should be vendor diverse (no more than 2:1 ratio of representation from any single vendor).
 
 If representation changes due to employment change, then SRC members are encouraged to grow the team or replace themselves through mentoring new members.
 
@@ -51,7 +50,7 @@ Selection of new members will be done by lazy consensus amongst members for addi
 
 #### Stepping Down
 
-Members may step down at any time and propose a replacement from existing active contributors of sigstore.
+Members may step down at any time and propose a replacement from existing active contributors of Sigstore.
 
 #### Responsibilities
 
@@ -61,11 +60,18 @@ Members may step down at any time and propose a replacement from existing active
 - Members of a role should remove any other members that have not communicated a leave of absence and either cannot be reached for more than 1 month or are not fulfilling their documented responsibilities for more than 1 month. This may be done through a super-majority vote of members.
 - Members should never intentionally disclose a vulnerbility during the embargo process to any public channels or indviduals outside of the SRC or codeowners selected to work as part of a fix team.
 
+### SRC Members Emeritus
+
+Thank you to the previous members of the SRC!
+
+* Dan Lorenc
+* Asra Ali
+
 ## Disclosures
 
 ### Private Disclosure Processes
 
-The sigstore Community asks that all suspected vulnerabilities be handled in accordance with [Responsible Disclosure model](https://en.wikipedia.org/wiki/Responsible_disclosure).
+The Sigstore community asks that all suspected vulnerabilities be handled in accordance with [Responsible Disclosure model](https://en.wikipedia.org/wiki/Responsible_disclosure).
 
 ### Public Disclosure Processes
 
@@ -82,7 +88,7 @@ All of the timelines below are suggestions and assume a Private Disclosure.
 - The SRC drives the schedule using their best judgment based on severity, development time, and release work.
 - If the SRC is dealing with a Public Disclosure all timelines become ASAP.
 - If the fix relies on another upstream project's disclosure timeline, that will adjust the process as well.
-- We will work with the upstream project to fit their timeline and best protect sigstore users.
+- We will work with the upstream project to fit their timeline and best protect Sigstore users.
 
 ### Fix Team Organization
 
