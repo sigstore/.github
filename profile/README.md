@@ -4,6 +4,6 @@
   <img alt="sigstore logo" src="https://raw.githubusercontent.com/sigstore/community/main/artwork/sigstore/horizontal/color/sigstore_horizontal-sigstore-color.png">
 </picture>
 
-sign. verify. Protect. Making sure your software is what it claims to be.
+Sign. Verify. Protect. Making sure your software is what it claims to be.
 
 Learn more at https://sigstore.dev/
