@@ -23,7 +23,6 @@ The SRC currently consists of:
 * Luke Hinds (lhinds@sigstore.dev)
 * Bob Callaway (bcallaway@sigstore.dev)
 * Hayden Blauzvern (hblauzvern@sigstore.dev)
-* Cody Soyland (codysoyland@sigstore.dev)
 
 The SRC members will share various tasks as listed below:
 
