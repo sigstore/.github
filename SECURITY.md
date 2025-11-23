@@ -194,3 +194,24 @@ These steps should be completed 1-3 days after the Release Date. The retrospecti
 ## Credit
 
 Parts of this process were inspired by the etc-d's security handling process.
+
+   # Security Policy
+
+   ## Reporting a Vulnerability
+   If you discover a security vulnerability, please report it by emailing us at [security@example.com](mailto:security@example.com). We will respond within 5 business days.
+
+   ## Scope
+   This bug bounty program applies to the following repositories:
+   - [example-repo](https://github.com/your-org/example-repo)
+
+   The following are **out of scope**:
+   - Issues related to outdated dependencies.
+   - Social engineering attacks.
+
+   ## Rewards
+   We offer recognition in our Hall of Fame for valid reports. Monetary rewards may be provided at our discretion based on severity.
+
+   ## Disclosure Policy
+   Please do not publicly disclose the vulnerability until we confirm it has been fixed.
+   
+
