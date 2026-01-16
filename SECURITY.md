@@ -24,6 +24,7 @@ The SRC currently consists of:
 * Bob Callaway (bcallaway@sigstore.dev)
 * Hayden Blauzvern (hblauzvern@sigstore.dev)
 * Fredrik Skogman (kommendorkapten@sigstore.dev)
+* Santiago Torres-Arias (santiagotorres@sigstore.dev)
 
 The SRC members will share various tasks as listed below:
 
