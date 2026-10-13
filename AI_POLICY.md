@@ -8,9 +8,9 @@ Any individual who contributes to the Sigstore project and plans to use AI must 
 
 The Sigstore project allows for contributions made with AI. However, you must disclose the use of AI assistance.
 
-All contributions, including but not limited to technical discussions, design documents, and code,
+All contributions, including but not limited to technical discussions, design documents, user documentation, and code,
 must meet a consistently high quality bar. If a contributor lacks meaningful engagement in discussions
-or submits unreviewed code, their contribution may be ignored or rejected without feedback, regardless of AI use.
+or submits unreviewed code, their contribution may be ignored or rejected without feedback.
 
 For technical discussions, the Sigstore project expects active participation and engagement from humans, not AI.
 You must not use AI to speak for you.
@@ -79,7 +79,7 @@ The Sigstore project will reject contributions that do not adhere to the require
 Examples of unacceptable contributions include but are not limited to:
 
 * Large PRs. If a single PR is over 1000 lines of code, you must break it up into multiple PRs.
-* Overly verbose and convoluted text in PR descriptions, issues, or code comments. Discussions and comments are for humans, not AI.
+* Unnecessarily verbose and convoluted text in PR descriptions, issues, or code comments. Discussions and comments are for humans, not AI.
 * Providing feedback on PRs or issues when you've made no contributions before.
 * Changes without sufficient testing.
 * Insecure code.
