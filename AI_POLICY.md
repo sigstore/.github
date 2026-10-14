@@ -45,7 +45,6 @@ The Sigstore project strongly encourages participation in community meetings as 
 ## Contribution Requirements
 
 Contributors must follow these requirements when making technical contributions.
-These contribution requirements apply whether or not AI is used.
 
 Maintainers and other trusted individuals are allowed to exercise their best judgment to bypass these rules.
 
