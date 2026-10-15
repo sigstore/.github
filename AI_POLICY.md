@@ -78,7 +78,7 @@ The Sigstore project will reject contributions that do not adhere to the require
 Examples of unacceptable contributions include but are not limited to:
 
 * Large PRs. If a single PR is over 1000 lines of code, you must break it up into multiple PRs.
-* Unnecessarily verbose and convoluted text in PR descriptions, issues, or code comments. Discussions and comments are for humans, not AI.
+* Convoluted, distracting text in PR descriptions, commit messages, issues, or code comments that hurts readability and comprehensibility.
 * Providing feedback on PRs or issues when you've made no contributions before.
 * Changes without sufficient testing.
 * Insecure code.
