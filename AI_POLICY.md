@@ -79,6 +79,7 @@ Examples of unacceptable contributions include but are not limited to:
 
 * Large PRs. If a single PR is over 1000 lines of code, you must break it up into multiple PRs.
 * Convoluted, distracting text in PR descriptions, commit messages, issues, or code comments that hurts readability and comprehensibility.
+* Self-promotion of personal projects.
 * Providing feedback on PRs or issues when you've made no contributions before.
 * Changes without sufficient testing.
 * Insecure code.
