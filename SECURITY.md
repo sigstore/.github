@@ -25,6 +25,7 @@ The SRC currently consists of:
 * Hayden Blauzvern (hblauzvern@sigstore.dev)
 * Fredrik Skogman (kommendorkapten@sigstore.dev)
 * Santiago Torres-Arias (santiagotorres@sigstore.dev)
+* Zach Steindler (steiza@sigstore.dev)
 
 The SRC members will share various tasks as listed below:
 
